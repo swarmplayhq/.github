@@ -4,7 +4,7 @@
 
 <p align="center">
 SwarmPlay is a console-style home screen for Linux: PS5, PS4 and PC games in one place,<br>
-each with its own art and trailer, played from the sofa with a controller. Free and open source.
+each with its own art and trailer, played from the sofa with a controller.
 </p>
 
 <p align="center">
